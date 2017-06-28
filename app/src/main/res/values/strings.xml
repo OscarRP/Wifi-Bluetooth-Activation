@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WifiBT</string>
+
+    <string name="wifi_enabled">Wifi Enabled</string>
+    <string name="wifi_disabled">Wifi Disabled</string>
+    <string name="wifi_error">Wifi Error</string>
+
+    <string name="bt_enabled">Bluetooth Enabled</string>
+    <string name="bt_disabled">Bluetooth Disabled</string>
+</resources>
